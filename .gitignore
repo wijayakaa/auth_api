@@ -1,0 +1,5 @@
+# Node.js dependencies
+node_modules/
+
+# Ignore the request file
+request.rest
